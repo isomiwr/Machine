@@ -54,14 +54,6 @@ flowchart TD
 - 提交作业，监控运行
 - 分析结果输出，进行可视化展示（如用Tableau、Grafana等）
 
-## 四、参考资料
-- Hadoop官方文档
-- 《Hadoop权威指南》
-- MapReduce经典论文《MapReduce： Simplified Data Processing on Large Clusters》
-
-
-```markdown
-# 关键技术实现
 
 ## 3.1 日志数据模型
 定义标准化的日志数据模型，支持多种日志格式：
