@@ -1,4 +1,3 @@
-```markdown
 # Machine
 
 ## 一、学习内容
@@ -31,7 +30,6 @@ flowchart TD
     C --> D[Shuffle阶段（按Key归组）]
     D --> E[Reduce阶段（聚合分析）]
     E --> F[结果输出（HDFS/数据库）]
-```
 
 ### 3. MapReduce任务设计
 - **Map函数**：解析日志，提取分析字段（如IP、时间、状态码等），输出Key-Value对  
